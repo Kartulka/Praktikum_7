@@ -1,0 +1,35 @@
+h1 {
+
+    color:aquamarine;
+    font-size: 50px;
+    font-family: Times New Roman;
+
+}
+
+p {
+
+    color: brown;
+    font-size: 25px;
+    font-family: Arial;
+    text-align: right;
+
+}
+
+.päis{
+
+    font-family: 'Times New Roman', Times, serif;
+    color:blueviolet
+
+}
+
+body {
+
+    background-color: rgb(222, 215, 160);
+    column-count: 2;
+
+}
+
+#Img1 {
+
+    border:limegreen solid 5px;
+}
